@@ -32,3 +32,7 @@ Install the required packages using the following command: `pip install -r requi
 Run the web with the following command: `python3 app.py`
 
 You will see webapp running at **http://127.0.0.1:5000/**
+
+## Owner:
+Ahmad Jobayer Github: https://github.com/AHMMAD-JOBAYER
+I tried the CSS part with Chat GPT
